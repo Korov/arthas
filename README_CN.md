@@ -535,3 +535,8 @@ OK
 ### 仓库镜像
 
 * [码云Arthas](https://gitee.com/arthas/arthas)
+
+
+```bash
+./mvnw clean package -DskipTests -P full
+```

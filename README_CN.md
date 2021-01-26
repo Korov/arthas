@@ -538,5 +538,5 @@ OK
 
 
 ```bash
-./mvnw clean package -DskipTests -P full
+./mvnw clean package -DskipTests -P full --settings=./settings.xml
 ```
